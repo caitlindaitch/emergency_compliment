@@ -2,7 +2,5 @@
 
 (function(){
   angular
-  .module("angularComp", [
-
-  ]);
+  .module("emergencyComp", [])
 }());
