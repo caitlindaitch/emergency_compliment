@@ -1,8 +1,8 @@
 body {
   background-color: black;
   background-origin: border-box;
+  text-align: center;
 }
-
 
 h1 {
   color: aquamarine;
@@ -12,9 +12,12 @@ h1 {
 }
 
 h2 {
-  color: magenta;
-  font-size: 30px;
-  text-align: center;
-  font-weight: bold;
-  font-style: oblique;
+  color: white;
+  font-family: helvetica;
+  font-size: 18px;
+}
+
+h2:hover {
+  color: #999;
+  transition: .7s;
 }
