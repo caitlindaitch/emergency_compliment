@@ -1,7 +1,7 @@
 "use strict";
 
 (function(){
-  var app = angular.module("angularComp");
+  var app = angular.module("emergencyComp");
   app.controller("mainController", MainController);
 
   function MainController(){
